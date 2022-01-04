@@ -28,3 +28,22 @@ font-family: 'Spline Sans', sans-serif;
 #second{
     padding-top:30px;
 }
+span{
+    color:aquamarine;
+}
+.size{
+    font-size:40px;
+}
+#third{
+    display:flex;
+    padding:10px;
+    width:100%;
+    margin-left:10px;
+    margin-right:10px;
+    border-radius:10px;
+    box-shadow:10px 10px 40px gray;
+
+}
+#third img{
+    width:100%;
+}
