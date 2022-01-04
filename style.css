@@ -1,3 +1,30 @@
-h1{
-    color: blue;
+body{
+    font-family: 'Oswald', sans-serif;
+font-family: 'Spline Sans', sans-serif;
+}
+.name-colour{
+    color: rgb(19, 211, 201);
+}
+.font-size{
+    font-size:60px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(green,blue);
+    padding: 10px 10px;
+    color: white;
+}
+.first-part{
+    display:grid;
+    grid-template-columns: repeat(2,2fr);
+    
+    padding-left: 10px;
+    margin-bottom:100px;
+}
+.first-part img{
+    width:60%;
+    padding-top:30px;
+}
+#second{
+    padding-top:30px;
 }
