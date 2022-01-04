@@ -34,16 +34,16 @@ span{
 .size{
     font-size:40px;
 }
-#third{
+.img-size{
     display:flex;
-    padding:10px;
-    width:100%;
-    margin-left:10px;
-    margin-right:10px;
-    border-radius:10px;
-    box-shadow:10px 10px 40px gray;
+    padding:2%;
+    width:20%;
+    margin-left:3%;
+    margin-right:3%;
+    border-radius:5px;
+    box-shadow:10px 10px 40px rgb(73, 37, 37);
 
 }
-#third img{
-    width:100%;
+.img-size img{
+    width:20%;
 }
